@@ -49,6 +49,6 @@ po/*~
 rsconnect/
 .Rproj.user
 
-*.html
+/inst/tutorials/**/*.html
 
 /.quarto/
